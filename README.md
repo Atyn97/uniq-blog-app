@@ -4,20 +4,13 @@ This is a next-blog app that allows users to create, and publish their own blog 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Basic features](#basic-features)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [Author](#author)
 
 ## Overview
-
-### Basic features
-
-- Admin can create and delete products, view customer’s orders and change status of each orders made by customers
-- User can place order and pay through Stripe online payment
-- Users can view all orders made
 
 - ## My process
 
