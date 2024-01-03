@@ -4,8 +4,7 @@ This is a next-blog app that allows users to create, and publish their own blog 
 ## Table of contents
 
 - [Overview](#overview)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Author](#author)
