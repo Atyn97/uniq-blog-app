@@ -4,7 +4,7 @@ This is a next-blog app that allows users to create, and publish their own blog 
 ## Table of contents
 
 - [Overview](#overview)
-- [Built with](#built-with)
+- [My Process](#my-process)
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Author](#author)
@@ -13,7 +13,6 @@ This is a next-blog app that allows users to create, and publish their own blog 
 
 ## My process
 
-### Built with
 
 This project uses the following technologies:
 
