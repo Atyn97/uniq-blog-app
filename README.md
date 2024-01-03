@@ -12,7 +12,7 @@ This is a next-blog app that allows users to create, and publish their own blog 
 
 ## Overview
 
-- ## My process
+## My process
 
 ### Built with
 
