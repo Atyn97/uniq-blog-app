@@ -24,32 +24,39 @@ This project uses the following technologies:
 - [Prisma]: An adapter to map the collections of data in MongoDB database
 - [React Hook]: A library for building forms with React hooks.
 
+### Framework
+
+![](./framework.png)
 
 ## Screenshot
 
-### Slider
+### Homepage
 
-![](./Calimero.png)
+![](./Homepage.png)
 
-### Featured Product
+### Homepage Light Mode
 
-![](./Calimero2.png)
+![](./Light-mode.png)
 
-### Menu
+### Single Page Post
 
-![](./Calimero5.png)
-
-### Customer's order / Admin dashboard
-
-![](./Calimero6.png)
-
-### Add Product Page
-
-![](./Calimero7.png)
+![](./single-post.png)
 
 ### Login Page
 
-![](./Calimero8.png)
+![](./login.png)
+
+### Write New Post Page
+
+![](./write-new-post.png)
+
+### Contact Page
+
+![](./contact-page.png)
+
+### About Page
+
+![](./abput-page.png)
 
 ## Links
 
