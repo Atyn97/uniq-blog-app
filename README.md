@@ -56,11 +56,11 @@ This project uses the following technologies:
 
 ### About Page
 
-![](./abput-page.png)
+![](./about-page.png)
 
 ## Links
 
-- Solution URL: [Solution](https://github.com/Atyn97/calimero-restaurant)
+- Solution URL: [Solution](https://github.com/Atyn97/uniq-blog-app)
 - Live Site URL: [Live site]()
 
 
