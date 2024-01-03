@@ -54,9 +54,6 @@ This project uses the following technologies:
 
 ![](./contact-page.png)
 
-### About Page
-
-![](./about-page.png)
 
 ## Links
 
