@@ -5,6 +5,7 @@ This is a next-blog app that allows users to create, and publish their own blog 
 
 - [Overview](#overview)
 - [My Process](#my-process)
+- [Features](#features)
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Author](#author)
@@ -23,6 +24,14 @@ This project uses the following technologies:
 - [Auth.js]: A library for implementing authentication and authorization in Next.js apps.
 - [Prisma]: An adapter to map the collections of data in MongoDB database
 - [React Hook]: A library for building forms with React hooks.
+
+## Features
+
+- Create and publish blog posts
+- Add image to your blog posts
+- Comment on blog posts
+- User authentication and authorization with Google, Facebook and GitHub
+- Data fetching and storage with MongoDB and Prisma
 
 ### Framework
 
