@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Uniq. Blog Application
+This is a next-blog app that allows users to create, and publish their own blog posts, as well comment on other posts. The blog app also features a responsive design, a user authentication system, and a rich text editor. This app is built with Next.js, CSS Module Stylesheet, JavaScript, and MongoDB. 
 
-## Getting Started
+## Table of contents
 
-First, run the development server:
+- [Overview](#overview)
+- [My Process](#my-process)
+- [Features](#features)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Author](#author)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## My process
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project uses the following technologies:
 
-## Learn More
+- [Next.js]: A React framework for building fast and scalable web applications. Also, use for data fetching and routing.
+- [CSS Module Stylesheet]:  To make easier to use the same class name in different files without worrying about collisions.
+- [JavaScript]: A well-known as the scripting language for Web pages.
+- [MongoDB]: A document-based database that stores data in JSON-like format.
+- [Auth.js]: A library for implementing authentication and authorization in Next.js apps.
+- [Prisma]: An adapter to map the collections of data in MongoDB database
+- [React Hook]: A library for building forms with React hooks.
 
-To learn more about Next.js, take a look at the following resources:
+## Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Create and publish blog posts
+- Add image to your blog posts
+- Comment on blog posts
+- User authentication and authorization with Google, Facebook and GitHub
+- Data fetching and storage with MongoDB and Prisma
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Framework
 
-## Deploy on Vercel
+![](./framework.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Screenshot
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Homepage
+
+![](./Homepage.png)
+
+### Homepage Light Mode
+
+![](./Light-mode.png)
+
+### Single Page Post
+
+![](./single-post.png)
+
+### Login Page
+
+![](./login.png)
+
+### Write New Post Page
+
+![](./write-new-post.png)
+
+### Contact Page
+
+![](./contact-page.png)
+
+
+## Links
+
+- Solution URL: [Solution](https://github.com/Atyn97/uniq-blog-app)
+- Live Site URL: [Live site]()
+
+
+
+
+## Author
+
+- Fatin Nooraina - [@Atyn97](https://github.com/Atyn97)
+
