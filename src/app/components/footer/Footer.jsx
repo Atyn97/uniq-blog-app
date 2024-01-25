@@ -49,7 +49,9 @@ const Footer = async () => {
         <div className={styles.list}>
           <span className={styles.listTitle}>Tags</span>
           {data?.map((item) => (
-            <Link href={`/blog?cat=${item.slug}`}>{item.slug}</Link>
+            <Link key={item.id} href={`/blog?cat=${item.slug}`}>
+              {item.slug}
+            </Link>
           ))}
         </div>
         <div className={styles.list}>
