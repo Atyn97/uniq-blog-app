@@ -22,7 +22,7 @@ const LoginPage = () => {
           className={styles.socialButton}
           onClick={() =>
             signIn("google", {
-              callbackUrl: "https://uniq-blog-app.vercel.app",
+              callbackUrl: `${process.env.NEXTAUTH_URL}`,
             })
           }
         >
@@ -33,7 +33,7 @@ const LoginPage = () => {
           className={styles.socialButton}
           onClick={() =>
             signIn("facebook", {
-              callbackUrl: "https://uniq-blog-app.vercel.app",
+              callbackUrl: `${process.env.NEXTAUTH_URL}`,
             })
           }
         >

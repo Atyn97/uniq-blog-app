@@ -5,7 +5,7 @@ import Card from "../card/Card";
 
 const getData = async (page, cat) => {
   const res = await fetch(
-    `https://uniq-blog-app.vercel.app/api/posts?page=${page}&cat=${cat || ""}`,
+    `${process.env.NEXTAUTH_URL}/api/posts?page=${page}&cat=${cat || ""}`,
     {
       cache: "no-store",
     }

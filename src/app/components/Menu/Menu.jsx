@@ -5,7 +5,7 @@ import MenuCategories from "../menuCategories/MenuCategories";
 
 const getData = async (page, isPopular) => {
   const res = await fetch(
-    `https://uniq-blog-app.vercel.app/api/posts?page=${page}&isPopular=${isPopular}`,
+    `${process.env.NEXTAUTH_URL}/api/posts?page=${page}&isPopular=${isPopular}`,
     {
       cache: "no-store",
     }
