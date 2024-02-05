@@ -21,7 +21,9 @@ const LoginPage = () => {
         <div
           className={styles.socialButton}
           onClick={() =>
-            signIn("google", { callbackUrl: "http://localhost:3000" })
+            signIn("google", {
+              callbackUrl: "https://uniq-blog-app.vercel.app",
+            })
           }
         >
           Sign in with Google
@@ -30,7 +32,9 @@ const LoginPage = () => {
         <div
           className={styles.socialButton}
           onClick={() =>
-            signIn("facebook", { callbackUrl: "http://localhost:3000" })
+            signIn("facebook", {
+              callbackUrl: "https://uniq-blog-app.vercel.app",
+            })
           }
         >
           Sign in with Facebook

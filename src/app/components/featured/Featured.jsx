@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const getData = async (page, isFeatured) => {
   const res = await fetch(
-    `http://localhost:3000/api/posts?page=${page}&isFeatured=${isFeatured}`,
+    `https://uniq-blog-app.vercel.app/api/posts?page=${page}&isFeatured=${isFeatured}`,
     {
       cache: "no-store",
     }
