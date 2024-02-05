@@ -67,7 +67,7 @@ This project uses the following technologies:
 ## Links
 
 - Solution URL: [Solution](https://github.com/Atyn97/uniq-blog-app)
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://uniq-blog-app.vercel.app/)
 
 
 
